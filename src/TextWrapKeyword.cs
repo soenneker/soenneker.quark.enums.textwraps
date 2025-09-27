@@ -6,7 +6,7 @@ namespace Soenneker.Quark.Enums;
 /// Typed values for the CSS text-wrap property in .NET enumeration form.
 /// </summary>
 [Intellenum<string>]
-public sealed partial class TextWrapKeywordKeyword
+public sealed partial class TextWrapKeyword
 {
     public static readonly TextWrapKeyword Wrap = new("wrap");
     public static readonly TextWrapKeyword NoWrap = new("nowrap");
