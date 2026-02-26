@@ -1,11 +1,11 @@
-using Intellenum;
+using Soenneker.Gen.EnumValues;
 
 namespace Soenneker.Quark.Enums;
 
 /// <summary>
 /// Typed values for the CSS text-wrap property in .NET enumeration form.
 /// </summary>
-[Intellenum<string>]
+[EnumValue<string>]
 public sealed partial class TextWrapKeyword
 {
     public static readonly TextWrapKeyword Wrap = new("wrap");
