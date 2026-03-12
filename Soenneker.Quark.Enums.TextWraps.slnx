@@ -4,10 +4,11 @@
   </Folder>
   <Folder Name="/.github/workflows/">
     <File Path=".github/workflows/build-and-test.yml" />
+    <File Path=".github/workflows/codeql.yml" />
     <File Path=".github/workflows/publish-package.yml" />
   </Folder>
   <Folder Name="/src/">
-    <Project Path="src/Soenneker.Quark.Enums.TextWraps.csproj" />
+    <Project Path="src/Soenneker.Quark.Enums.TextWraps/Soenneker.Quark.Enums.TextWraps.csproj" />
   </Folder>
   <Folder Name="/test/">
     <Project Path="test/Soenneker.Quark.Enums.TextWraps.Tests/Soenneker.Quark.Enums.TextWraps.Tests.csproj" />
