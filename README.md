@@ -3,11 +3,16 @@
 [![](https://img.shields.io/nuget/dt/soenneker.quark.enums.textwraps.svg?style=for-the-badge)](https://www.nuget.org/packages/soenneker.quark.enums.textwraps/)
 [![](https://img.shields.io/github/actions/workflow/status/soenneker/soenneker.quark.enums.textwraps/codeql.yml?label=CodeQL&style=for-the-badge)](https://github.com/soenneker/soenneker.quark.enums.textwraps/actions/workflows/codeql.yml)
 
-# ![](https://user-images.githubusercontent.com/4441470/224455560-91ed3ee7-f510-4041-a8d2-3fc093025112.png) Soenneker.Quark.Enums.TextWraps
-### An HTML CSS keyword set in .NET enumeration form
+# Soenneker.Quark.Enums.TextWraps
 
-## Installation
+Represents the text wrap enum.
 
-```
+## Install
+
+```bash
 dotnet add package Soenneker.Quark.Enums.TextWraps
 ```
+
+## What you get
+
+- `TextWrapEnum` — Represents the text wrap enum.
